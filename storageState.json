@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "4rgq698pj6b9qntujn7la8692f",
+      "domain": "icehrm-open.gamonoid.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1993375874.1748829406",
+      "domain": ".gamonoid.com",
+      "path": "/",
+      "expires": 1783389405.520876,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.2100148959.1748829406",
+      "domain": ".gamonoid.com",
+      "path": "/",
+      "expires": 1748915805,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
